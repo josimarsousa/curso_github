@@ -1,1 +1,3 @@
-#Bem vindo ao curso git hub
+#Bem vindo ao curso github
+
+descricao do curso
