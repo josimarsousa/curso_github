@@ -12,5 +12,10 @@ function pegaEmail (pegaEmail){
     return "mensagem"
 }
 
+function mostraCliente(clientes){
+    return "clientes"
+}
+
 //finalizado a home
 //adicionando o pegaemail
+//adicionando clientes
