@@ -1,6 +1,5 @@
 function MostraNome(){
-    return "nomes"
+return "nome"
     
 }
 
-//mostrando nomes cadastrados
