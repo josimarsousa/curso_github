@@ -1,3 +1,10 @@
-#Bem vindo ao curso github
+# Bem vindo ao curso github
 
-descricao do curso
+* direcionado a uma reciclagem basico de uso do github
+
+
+## Modulos:
+
+Revisão conceito de git e github
+comandos básicos 
+markdown etc
