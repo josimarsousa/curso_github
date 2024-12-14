@@ -5,6 +5,6 @@
 
 ## Modulos:
 
-Revisão conceito de git e github
-comandos básicos 
-markdown etc
+* Revisão conceito de git e github
+* comandos básicos 
+* markdown etc
