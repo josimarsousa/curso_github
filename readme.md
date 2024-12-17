@@ -20,3 +20,34 @@
 > Este é um exemplo de blockquote, usado para destacar alguma area.
 >
 > Segunda área destacada
+
+**comando para rodar o projeto**
+
+```
+npm start
+```
+
+**exemplo de uso de script**
+
+```js
+function name(name) {
+    return 'Bem vindo': '+ name
+```
+
+**uso do componente HTML: **
+
+```HTML
+<h1>
+    Titulo do projeto
+    <span>Curso Git</span>
+</h1>
+``` 
+**Css padrao do projeto:**
+
+```Css
+.titulo{
+    background-color: #FFF
+    color: #FF0000
+}
+``` 
+
