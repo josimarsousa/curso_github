@@ -5,11 +5,20 @@
 * direcionado a uma reciclagem basico de uso do **_git e github._**
 
 
+
 ## Modulos:
 
 * Revisão conceito de git e github
 * comandos básicos 
 * markdown etc
+
+## TaskLists:
+
+**Ultimas updates**
+- [x] Site Responsivo
+- [x] Login com facebook
+- [x] Pagina sobre a empresa
+
 
 ### Rede Social:
 
